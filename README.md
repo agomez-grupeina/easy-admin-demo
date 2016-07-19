@@ -6,7 +6,7 @@ A Symfony demo backend to show [EasyAdmin](https://github.com/javiereguiluz/Easy
 How to install this project
 ---------------------------
 
-  1. `git clone https://github.com/javiereguiluz/easy-admin-demo`
+  1. `git clone https://github.com/agomez-grupeina/easy-admin-demo`
   1. `cd easy-admin-demo`
   1. `composer install`
   1. Edit `easy-admin-demo/app/config/parameters.yml` and configure
